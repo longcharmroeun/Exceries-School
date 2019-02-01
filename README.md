@@ -1,0 +1,2 @@
+# Exceries-School
+gpupdate /force
